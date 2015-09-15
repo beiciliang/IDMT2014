@@ -1,0 +1,13 @@
+Bei Liang
+
+Step 1: Thanks for citing your sources. Mostly good but I wouldn't suggest dividing the range by 4 to begin with, as you lose precision this way (only 256 possible values instead of 1024).
+
+Step 2: Probably the speaker can produce a wider range of tones than this, it's just the range I happened to choose. But clearly it is better with some frequencies than others (which?). Code looks fine.
+
+Step 3: This is one possible way to implement the 8 buttons, but I might suggest using the digital pins instead. It would be more flexible if, say, you wanted to support multiple buttons at once later on (I know it is more wires though). Code looks fine. How do you decide what is more or less expressive and why?
+
+Step 4: This works fine. How could you make your code more compact using arrays? There are lots of numbers you have to write out by hand in this sketch, and you could make it easier to change by using arrays and calculations within the code.
+
+Bonus: Very nice implementation! But please comment your code!
+
+80
