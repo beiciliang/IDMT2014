@@ -5,7 +5,7 @@ ECS742P Interactive Digital Multimedia Technology at Queen Mary University of Lo
 Developed in Arduino and Processing.
 
 1. Coursework of CruftFest: Waking Pillow
-![alt text](https://github.com/beiciliang/IDMT2014/blob/master/wakingpillow.jpg | width=100)
+<img src="https://github.com/beiciliang/IDMT2014/blob/master/wakingpillow.jpg" height="200">
 
 2. Coursework of final project: Beat Dress
-![alt text](https://github.com/beiciliang/IDMT2014/blob/master/beatdress.png | width=100)
+<img src="https://github.com/beiciliang/IDMT2014/blob/master/beatdress.png" height="200">
